@@ -12,7 +12,7 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[Cat Classifier](https://github.com/Fairfield-University-Hybrid-AI-Lab/felidetect)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
