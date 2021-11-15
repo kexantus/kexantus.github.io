@@ -5,7 +5,7 @@
 ### Data Analysis 
 ---
 [Cat Classifier GitHub](https://github.com/Fairfield-University-Hybrid-AI-Lab/felidetect)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="project1_cat/waveforms.png"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
