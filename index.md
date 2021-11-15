@@ -4,7 +4,7 @@
 
 ### Data Analysis 
 ---
-[Cat Classifier](https://github.com/Fairfield-University-Hybrid-AI-Lab/felidetect)
+[Cat Classifier GitHub](https://github.com/Fairfield-University-Hybrid-AI-Lab/felidetect)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
