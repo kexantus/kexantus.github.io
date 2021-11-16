@@ -2,28 +2,29 @@
 
 ---
 
-### Machine Learning 
+### Data Analysis 
 ---
-[Cat Classifier GitHub](https://github.com/Fairfield-University-Hybrid-AI-Lab/felidetect)
+[WWE Analysis with Python](https://github.com/Fairfield-University-Hybrid-AI-Lab/felidetect)
 <img src="project1_cat/waveforms.png"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Billboard Analysis](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 1 Title](/sample_page)
+[Oscars Analysis](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
-### Category Name 2
+### Machine Learning
 ---
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+[Cat Sound Classifier Using Python](https://github.com/Fairfield-University-Hybrid-AI-Lab/felidetect)
+<img src="project1_cat/waveforms.png"/>
+
+---
+[Breast Cancer Detection with Scikit Learn](https://github.com/Fairfield-University-Hybrid-AI-Lab/felidetect)
+<img src="project1_cat/waveforms.png"/>
 
 ---
 
