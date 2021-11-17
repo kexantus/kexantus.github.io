@@ -8,10 +8,6 @@
 <img src="project1_cat/waveforms.png"/>
 
 ---
-[Billboard Analysis](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
 [2021 CT Gas Price Analysis](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
