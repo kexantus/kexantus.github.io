@@ -9,8 +9,9 @@
 <img src="project1_cat/waveforms.png"/>
 
 ---
-#[Breast Cancer Detection with Scikit Learn](https://github.com/Fairfield-University-Hybrid-AI-Lab/felidetect)
-#<img src="project1_cat/waveforms.png"/>
+[Breast Cancer Detection with Scikit Learn](https://github.com/Fairfield-University-Hybrid-AI-Lab/felidetect)
+<img src="project1_cat/waveforms.png"/>
+<img src="project2_wwe/wwe.png"/>
 
 ---
 
