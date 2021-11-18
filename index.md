@@ -17,7 +17,7 @@
 ### Data Analysis 
 
 ---
-[WWE Analysis with Python](https://github.com/Fairfield-University-Hybrid-AI-Lab/felidetect)
+[WWE Analysis with Python](https://github.com/kexantus/WWE)
 <img src="project2_wwe/wwe.png"/>
 
 ---
