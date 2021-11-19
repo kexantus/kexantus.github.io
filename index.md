@@ -5,7 +5,7 @@
 ## Data Analysis 
 
 ---
-### [Foreign Aid Dashboard in Tableau](https://github.com/kexantus/Foreign-Aid)
+### [Foreign Aid in Tableau](https://github.com/kexantus/Foreign-Aid)
 <img src="https://github.com/kexantus/Foreign-Aid/blob/main/Foreign%20Aid.png"/>
 
 ---
