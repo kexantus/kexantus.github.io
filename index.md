@@ -10,7 +10,7 @@
 
 ---
 ### [WWE Analysis with Python](https://github.com/kexantus/WWE)
-<img src="project2_wwe/wwe.png"/>
+<img src="images/wwe.png"/>
 
 ---
 
@@ -18,7 +18,7 @@
 
 ---
 ### [Cat Sound Classifier Using Python](https://github.com/Fairfield-University-Hybrid-AI-Lab/felidetect)
-<img src="project1_cat/waveforms.png"/>
+<img src="images/cat.png"/>
 
 ---
 ### [Breast Cancer Prediction](https://github.com/kexantus/Breast_Cancer_Prediction)
