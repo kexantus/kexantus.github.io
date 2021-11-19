@@ -6,7 +6,6 @@
 
 ---
 ### [Foreign Aid Dashboard in Tableau](https://github.com/kexantus/Foreign-Aid)
-(/sample_page)
 <img src="https://github.com/kexantus/Foreign-Aid/Foreign Aid.png?raw=true"/>
 
 ---
