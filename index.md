@@ -5,8 +5,9 @@
 ## Data Analysis 
 
 ---
-### [COVID Analysis](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+### [Foreign Aid Dashboard in Tableau](https://github.com/kexantus/Foreign-Aid)
+(/sample_page)
+<img src="https://github.com/kexantus/Foreign-Aid/Foreign Aid.png?raw=true"/>
 
 ---
 ### [WWE Analysis with Python](https://github.com/kexantus/WWE)
