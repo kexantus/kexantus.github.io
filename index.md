@@ -21,7 +21,7 @@
 <img src="project1_cat/waveforms.png"/>
 
 ---
-### [Loan Prediction with Scikit Learn](https://github.com/Fairfield-University-Hybrid-AI-Lab/felidetect)
+### [Loan Prediction with Scikit Learn](https://github.com/kexantus/Loan)
 <img src="project1_cat/waveforms.png"/>
 
 ---
