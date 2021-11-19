@@ -21,7 +21,7 @@
 <img src="project1_cat/waveforms.png"/>
 
 ---
-### [Breast Cancer Prediction](https://github.com/kexantus/Loan)
+### [Breast Cancer Prediction](https://github.com/kexantus/Breast_Cancer_Prediction)
 <img src="images/breastCancer.png"/>
 
 ---
