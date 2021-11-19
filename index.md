@@ -5,12 +5,12 @@
 ## Data Analysis 
 
 ---
-### [WWE Analysis with Python](https://github.com/kexantus/WWE)
-<img src="project2_wwe/wwe.png"/>
+### [COVID Analysis](/sample_page)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-### [2021 CT Gas Price Analysis](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+### [WWE Analysis with Python](https://github.com/kexantus/WWE)
+<img src="project2_wwe/wwe.png"/>
 
 ---
 
