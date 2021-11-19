@@ -6,7 +6,7 @@
 
 ---
 ### [Foreign Aid Dashboard in Tableau](https://github.com/kexantus/Foreign-Aid)
-<img src="https://github.com/kexantus/Foreign-Aid/Foreign Aid.png?raw=true"/>
+<img src="https://github.com/kexantus/Foreign-Aid/blob/main/Foreign%20Aid.png"/>
 
 ---
 ### [WWE Analysis with Python](https://github.com/kexantus/WWE)
