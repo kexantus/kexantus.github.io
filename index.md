@@ -5,12 +5,12 @@
 ## Data Analysis 
 
 ---
-### [Foreign Aid in Tableau](https://github.com/kexantus/Foreign-Aid)
-<img src="images/Foreign Aid.png"/>
+### [COVID Analysis with Python](https://github.com/kexantus/COVID-19)
+<img src="images/covid.png"/>
 
 ---
-### [WWE Analysis with Python](https://github.com/kexantus/WWE)
-<img src="images/wwe.png"/>
+### [Foreign Aid in Tableau](https://github.com/kexantus/Foreign-Aid)
+<img src="images/Foreign Aid.png"/>
 
 ---
 
