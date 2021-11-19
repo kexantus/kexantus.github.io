@@ -21,7 +21,7 @@
 <img src="project1_cat/waveforms.png"/>
 
 ---
-### [Loan Prediction with Scikit Learn](https://github.com/kexantus/Loan)
-<img src="project1_cat/waveforms.png"/>
+### [Breast Cancer Prediction](https://github.com/kexantus/Loan)
+<img src="images/breastCancer.png"/>
 
 ---
