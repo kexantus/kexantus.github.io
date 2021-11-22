@@ -9,10 +9,6 @@
 <img src="images/covid.png"/>
 
 ---
-### [Foreign Aid in Tableau](https://github.com/kexantus/Foreign-Aid)
-<img src="images/Foreign Aid.png"/>
-
----
 
 ## Machine Learning
 
